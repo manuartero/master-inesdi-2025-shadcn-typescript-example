@@ -1,8 +1,10 @@
 {
-  "name": "master-inesdi-2025-shadcn-example",
-  "private": true,
-  "version": "0.0.0",
+  "name": "master-inesdi-2025-shadcn-typescript-example",
+  "description": "A simple example project using shadcn/ui with Tailwind CSS and Typescript",
+  "private": false,
+  "version": "0.1.0",
   "type": "module",
+  "license": "MIT",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
